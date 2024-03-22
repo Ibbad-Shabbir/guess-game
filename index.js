@@ -1,4 +1,4 @@
-#! /usr/bin/env/ node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 async function startfunc() {
     const sysNum = Math.floor(Math.random() * 10);
